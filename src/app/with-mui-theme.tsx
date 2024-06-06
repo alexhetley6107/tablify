@@ -21,7 +21,7 @@ export const ThemeProvider: FC<PropsWithChildren> = ({ children }) => {
           },
         },
         typography: {
-          fontFamily: 'Montserrat, sans-serif',
+          fontFamily: 'Poppins, sans-serif',
         },
       }),
     []
